@@ -2,8 +2,7 @@
 
 ## Who Am I 👋
 
-Hello, my name is Dimitris Martin Arampatzis. I’m an engineer at CubeRM where i develop the backend using mostly .NET and the Azure Stack, but _this blog, its content and opinions are my own._
-
+Hello, my name is Dimitris Martin Arampatzis. I’m an engineer at CubeRM where i develop the backend using mostly .NET and the Azure Stack.
 I am currently located in Thessaloniki, Greece where i work remotely.
 
 ## Interests 👀
